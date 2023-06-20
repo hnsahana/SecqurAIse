@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287289372221",
+    "firebase_url": "https://secquraise-bb5c7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "secquraise-bb5c7",
+    "storage_bucket": "secquraise-bb5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287289372221:android:99dc9c0b2b804e698f4454",
+        "android_client_info": {
+          "package_name": "com.example.sequraise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287289372221-0k8kq6a6lj2gjtannosp2ddsui5peq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_S2kSzKw2WYbTcd77I3GT0xeNNY1F5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287289372221-0k8kq6a6lj2gjtannosp2ddsui5peq9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
